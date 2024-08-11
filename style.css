@@ -15,8 +15,9 @@ body {
     width: 400px;
     padding: 25px 35px;
     background: #2c2a42;
+    border: 1.5px solid #309fee;
     border-radius: 15px;
-    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.364);
+    box-shadow: 0 12px 15px rgba(0, 0, 0, 0.364);
     text-align: center;
 }
 .container p {
